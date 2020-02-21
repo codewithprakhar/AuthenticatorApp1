@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AuthenticatorApp</string>
+    <string name="your_phone">Your Phone</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_profile">Your Profile</string>
+    <string name="your_name">Your Name</string>
+</resources>

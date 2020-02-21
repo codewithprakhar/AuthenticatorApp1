@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "971421253155",
+    "firebase_url": "https://authenticatorapp-5f35d.firebaseio.com",
+    "project_id": "authenticatorapp-5f35d",
+    "storage_bucket": "authenticatorapp-5f35d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971421253155:android:99c7cb3ec0951f6ee7fb96",
+        "android_client_info": {
+          "package_name": "com.codewithprakhar.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971421253155-aoise4d9a0tfm49a65hq397nfnpab089.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codewithprakhar.authenticatorapp",
+            "certificate_hash": "7e8f9f4e1a45f76f374e48f112f89b1dc82b20cc"
+          }
+        },
+        {
+          "client_id": "971421253155-lml6i02r4aco68dkin2scvj6h14sva19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHrp0KrqVKpJd5RWJY9hyjx6uPFEDGYJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971421253155-lml6i02r4aco68dkin2scvj6h14sva19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
