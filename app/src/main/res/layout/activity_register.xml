@@ -102,6 +102,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginEnd="16dp"
         android:ems="10"
+        android:digits="0123456789"
         android:inputType="textPhonetic"
         android:hint="Phone"
         android:background="@android:color/black"
